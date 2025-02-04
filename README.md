@@ -15,8 +15,8 @@
 #### Clone the repo
 
 ```shell
-git clone <repo-url>
-cd <repo-name>
+git clone https://github.com/viveknarula1980/dapp-app.git
+
 ```
 
 #### Install Dependencies
